@@ -39,6 +39,8 @@ header {
   background-color: var(--cream);
   border-bottom: 10px double var(--rust);
   padding: 2rem;
+
+
 }
 
 nav {
@@ -62,6 +64,9 @@ nav a {
 nav a:hover {
   color: var(--ironwood);
 }
+
+
+
 main {
   padding: 2rem;
   background-color: var(--white);
